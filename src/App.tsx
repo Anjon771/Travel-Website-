@@ -96,7 +96,7 @@ function App() {
     eyebrow: 'WATCH',
     title: 'Wanderlust in motion',
     image: images.hero,
-    video: 'https://YOUR_VIDEO_HOST_URL/0815.mp4', // 👉 নিচের instructions অনুযায়ী video আপলোড করে এখানে link বসান
+    video: 'https://github.com/Anjon771/Travel-Website-/releases/download/v1.0/0815.mp4/0815.mp4', // 👉 নিচের instructions অনুযায়ী video আপলোড করে এখানে link বসান
     paragraphs: [
       'A short film about the journeys that stay with you — from the cliffs of Bali to the peaks of Patagonia. Every trip we curate begins with a simple question: where do you want to go next?',
     ],
