@@ -4,7 +4,7 @@ import { fileURLToPath, URL } from 'node:url';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/REPO_NAME/', // 👉 নিজের GitHub repository-র নাম দিয়ে REPO_NAME পাল্টে দিন
+  base: '/Travel-Website-/',
   plugins: [react()],
   resolve: {
     alias: {
